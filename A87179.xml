@@ -1,0 +1,533 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good news to all people. Glad tydings for all men. God good unto all, and Christ the saviour of the world: or, The general point faithfully handled by way of exercise: or A sermon preached at Buckingham upon the 25 of March, being (as so called) Easter-day. By William Hartley.</title>
+            <author>Hartley, William, of Stony-Stratford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87179</idno>
+            <idno type="STC">Wing H974</idno>
+            <idno type="STC">Thomason E594_11</idno>
+            <idno type="STC">ESTC R206917</idno>
+            <idno type="EEBO-CITATION">99866005</idno>
+            <idno type="PROQUEST">99866005</idno>
+            <idno type="VID">118264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118264)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E594[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good news to all people. Glad tydings for all men. God good unto all, and Christ the saviour of the world: or, The general point faithfully handled by way of exercise: or A sermon preached at Buckingham upon the 25 of March, being (as so called) Easter-day. By William Hartley.</title>
+                  <author>Hartley, William, of Stony-Stratford.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock for Lodowick Lloyd, and Henry Cripps, and are to be sold at their shop in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "ffeb 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts XVII, 30 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118264:1" rendition="simple:additions"/>
+            <p>GOOD NEWS to all <hi>PEOPLE.</hi>
+            </p>
+            <p>GLAD TYDINGS for all MEN.</p>
+            <p>God good unto All, AND Chriſt the Saviour of the World: OR, The general Point faithfully han<g ref="char:EOLhyphen"/>dled by way of Exerciſe: OR A Sermon preached at Buckingham upon the 25 of <hi>March,</hi> being (as ſo called) <hi>Eaſter-day.</hi>
+            </p>
+            <p>By WILLIAM HARTLEY.</p>
+            <q>
+               <bibl>
+                  <hi>1 Tim. 2.4.</hi>
+               </bibl>
+               <p>Who will have all men to be ſaved, and to come unto the knowledg of the truth.</p>
+               <bibl>
+                  <hi>Heb. 2.9.</hi>
+               </bibl>
+               <p>We ſee Jeſus who was made a little lower then the An<g ref="char:EOLhyphen"/>gels, by ſuffering death, crowned with glory and honour, that he by the grace of God ſhould taſte death for every man.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock</hi> for <hi>Lodowick Lloyd,</hi> and <hi>Henry Cripps,</hi> and are to be ſold at their ſhop in <hi>Popes-head Alley.</hi> 1650.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118264:2"/>
+            <pb n="3" facs="tcp:118264:2"/>
+            <head>For his beloved Cozen, Captain <hi>Francis Freeman.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I call to mind the glorious refreſhing Beams, diſtilled from the men of your generation, on Saints ſeeking after God, it is hard to ſay, Whether the remembrance doth miniſter greater comfort or ſad<g ref="char:EOLhyphen"/>neſs, ſeeing ſuch hideous Clouds have overwhelmed our <hi>Horizon,</hi> that we are given to believe, the <hi>Sun</hi> is upon the <hi>Equinoctial</hi> Point, paſſing into the <hi>ecliptick</hi> Line: <note n="*" place="margin">Neſcio quis tineros ocu<g ref="char:EOLhyphen"/>lus, &amp;c.</note> Whether the miſty <hi>Vapours</hi> of our own <hi>Climate,</hi> or that fruit-nipping <hi>North-East</hi> wind, hath occaſioned theſe Fogs interpoſing; <hi>Suppoſition</hi> granteth no <hi>Concluſion:</hi> and how <hi>Titan</hi> will be able to diſpel theſe obſtructive <hi>Miſts</hi> before he dippeth himſelf into the <note n="*" place="margin">Tingere in altum Sol ita videtur navigant. <hi>Vir.</hi>
+               </note> 
+               <hi>Sea:</hi> 'Tis <hi>Wiſdom</hi> to praiſe a fair day at night: To <hi>Morrows</hi> generation may <hi>Calculate;</hi> whether <hi>Juſtice</hi> follow you, or you follow <hi>Juſtice.</hi> Sir, I ask pardon for digreſſion, and preſent you this Diſcourſe from the <hi>Preſs,</hi> of which you were a Hearer in the <hi>Speech;</hi> and beg reſentment therein (ſo far) of your Spirit, as it hath a witneſs from truth in the Spirit. <hi>I am,</hi>
+            </p>
+            <closer>
+               <signed>Your unworthy Kinſman, <hi>William Hartley.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="4" facs="tcp:118264:3"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am deeply ſadded when I conſider the great rents the particular and general Point hath made in the Church of Chriſt, and what ſad diſaſter hath followed for want of holding forth the truth in love. (By provi<g ref="char:EOLhyphen"/>dence) having an opportunity to declare my thoughts touching the <g ref="char:V">Ʋ</g>niverſal Love of God to mankind, I was miſ-appre<g ref="char:EOLhyphen"/>hended by divers of my Hearers (whom I judg to be godly:) and Mr <hi>Birdits</hi> promiſe to inform the Auditory touching his and their miſpriſion, being not (to my knowledg) yet effected; To wipe off the prejudice that Mr <hi>Birdit</hi> infuſed in the people, not only of my ſelf, but the doctrine, I have (at the deſire of my friends) put this enſuing Treatiſe unto publique view; although the Subject matter therein contained hath been managed <hi>(ex ſuperabundanti)</hi> by many able and knowing men in the Scripture, yet I humbly take liberty to caſt my mite into the treaſury: I am not ignorant how con<g ref="char:EOLhyphen"/>temptible this ſmall piece offered will appear in the eyes of ſome, and how ſleighted of others, becauſe not coyned with the currant ſtamp, yet (I preſume) all rational and unbiaſſed profeſſors will judg the mettal of this diſcourſe according to its weight, or worth, in the ballance of Reaſon, and Touch-ſtone of the Word of God; which is the ultimate requeſt of him, whoſe deſire is to know truth:</p>
+            <closer>
+               <dateline>
+                  <hi>Stonyſtrat.</hi> 
+                  <date>
+                     <hi>April 4. 1649.</hi>
+                  </date>
+               </dateline>
+               <signed>WIL: HARTLEY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:118264:3"/>
+            <head>GOOD NEWS to all <hi>PEOPLE;</hi> GLAD TYDINGS for all <hi>MEN.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ACTS 17.30.</hi>
+                  </bibl>
+                  <p>And the times of this ignorance God winked at, but now he commandeth all men every where to repent.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the former part of this Chapter we read of <hi>Pauls</hi> practice, <hi>viz.</hi> that as he paſſed from place to place, his manner was to go into the Syna<g ref="char:EOLhyphen"/>gogues of the <hi>Jews,</hi> (there being a concourſe of people); he made it his buſineſs, by arguments and reaſoning from Scripture, to declare <hi>Jeſus Chriſt</hi> to have ſuffered and riſen again from the dead: and that this action of <hi>Pauls</hi> (to wit, his going into the Synagogues) is warrantable, ſee a preſident in Chriſt himſelf, <note n="*" place="margin">Luk. 4.16.</note> 
+               <hi>And he came to Nazareth, where he had been brought up, and as his cuſtom was, he went into the Synagogues, and ſtood up for to
+<pb n="6" facs="tcp:118264:4"/>
+read, &amp;c.</hi> It is evident from this place of Scripture, and many more, That <hi>Christ,</hi> who taught the people upon the Mount, in a Ship, at the Sea ſide, taught alſo in the Temple and Synagogues of the <hi>Jews;</hi> not in relation to any ſanctity in the places, but in reference to an opportunity, there being an Aſſembly of perſons: Herein the Apoſtle <hi>Paul</hi> profeſſeth his integrity, <hi>That he had ſhun<g ref="char:EOLhyphen"/>ed no occaſion, having taught the Word publiquely, and from houſe to houſe, Act.</hi> 20.20.</p>
+            <p>As all endevors, tending to the glory of God, are incident to ob<g ref="char:EOLhyphen"/>ſtruction; ſo this enterprize of the Apoſtle meets with no ſmall op<g ref="char:EOLhyphen"/>poſition: Two ſorts of Adverſaries are recorded; The <hi>Jews,</hi> thoſe who worſhipped the ſame God: The Church of Chriſt hath no greater Enemies then thoſe who ſpring from her own bowels: That which Chriſt ſpeaketh of a mans foes, is moſt true in relation to Saints, <hi>Their Enemies are of their own houſhold:</hi> Chriſtian againſt Chriſtian, Beleever againſt Beleever.</p>
+            <p>Secondly, Lewd fellows, thoſe of the <hi>baſer ſort,</hi> uncivilized men, who are adverſaries to all goodneſs and good men, theſe run open mouth at <hi>Paul;</hi> but devout and moderate people, the men of <hi>Berea,</hi> neither diſtaſted his perſon, or doctrine, but <hi>ſearched the Scriptures, whether theſe things were true or no:</hi> This Idolizing of perſons, places, and forms, hath done no ſmall prejudice to the power of Truth, and myſtery of the Goſpel.</p>
+            <p>At <hi>Athens</hi> (though a City wholy given to Idolatry) yet there <hi>Paul</hi> is drawn forth to preach the Goſpel; they being a people af<g ref="char:EOLhyphen"/>fected with Novelty, unto them he declares the glad news of Jeſus Chriſt.</p>
+            <p>'Tis remarkable, that ſuch a Heatheniſh people, Philoſophers of the <hi>Epicureans, Stoicks, &amp;c.</hi> ſhould admit of a debate, as Verſ. 19, 20. <hi>May we know what this new Doctrine, whereof thou ſpeakeſt, is? For thou bringeſt certain ſtrange things to our ears; we would know therefore what theſe things mean, &amp;c.</hi> I promiſe ye, Sirs, this civil deportment hath not been found in many of our Divines (ſo called,) who in ſtead of embracing conference to argue out the Truth <hi>(ſecundum pondus)</hi> cry out, with the invective <hi>Jews, Away with ſuch a fellow, he is not worthy to live.</hi>
+            </p>
+            <p>The Apoſtle having gained audience, convinceth the vanity of the <hi>Athenian</hi> worſhip, by interpoſition of the true, taking notice of an Altar erected to an <hi>
+                  <g ref="char:V">Ʋ</g>NKNOWN GOD: Whom
+<pb n="7" facs="tcp:118264:4"/>
+therefore</hi> (ſaith he) <hi>ye ignorantly worſhip, him declare I unto you.</hi>
+            </p>
+            <q>And the times of this ignorance God winked at,<note place="margin">Acts 17.30.</note> but now he com<g ref="char:EOLhyphen"/>mandeth all men every where to repent.</q>
+            <p>Before we proceed to the Doctrinal part of the Text, I ſhall open theſe three things:</p>
+            <p>Firſt, What is meant by <hi>Times:</hi> You are to underſtand,<note place="margin">1. What is meant by Times.</note> that when <hi>Time</hi> or <hi>Times</hi> are attributed to God, it is ſpoken in refer<g ref="char:EOLhyphen"/>ence to the capacity of the Creature, God in himſelf being above and beyond all Time: <hi>A thouſand years in thy ſight are but as yeſterday:</hi> And again, <hi>One day with the Lord is as a thouſand years, and a thouſand years as one day.</hi> Now to the Creature, a thouſand years are a thouſand years, and one day is one day; but with God it is not ſo: All times, perſons, and actions, whether paſt, preſent, or to come, are (as at one inſtant) in his view; as you may inſtance: <note n="*" place="margin">Simile.</note> A man ſtanding upon a hill, and an Army marching in the Vale, to them that march, ſome are in the <hi>Van,</hi> ſome are in the <hi>Rear,</hi> ſome are in the <hi>Battel;</hi> but the perſon on the hill ſeeth them all at one proſpect: So, to us mortals, one generation paſſeth, another followeth, a third haſteth after; but all in Gods view at once.</p>
+            <p>
+               <hi>Times of ignorance]</hi> That is, when perſons are unacquainted with the knowledg of Chriſt (though never ſo wiſe in other things) yet their life, and time, is a life and being in ignorance: When the Apoſtle accounted all things as dung and droſs in compariſon of the <note n="*" place="margin">Phil. 3.8.</note> 
+               <hi>Excellency of the Knowledg of Chriſt,</hi> we cannot imagine that he excluded worldly wiſdom; for he that will be wiſe in the ſight of God, muſt become a fool, that he may be wiſe.</p>
+            <p>Secondly, What we are to conceive of Gods winking:<note place="margin">2. How to un<g ref="char:EOLhyphen"/>derſtand Gods winking.</note> 
+               <hi>In the times of this ignorance God winked: Praeterire fecit Deus,</hi> ſaith the Original; a <hi>Metaphor</hi> taken from our vulgar expreſſion: Sir, you are to <hi>wink</hi> at (or take no knowledg of) ſmall matters.</p>
+            <p>Thirdly, What it is to repent:<note place="margin">3. What it is to Repent.</note> 
+               <hi>He commandeth all men every where to repent:</hi> Repentance, in the proper ſignification of the word, doth imply a change of the minde: Contrition, weeping, or ſorrow for ſin, is a ſign or fruit of repenting, but not Repentance it ſelf: Sorrow was found in <hi>Judas,</hi> as well as <hi>Peter;</hi> and profane <hi>Eſau</hi> ſhed tears, when (Engliſhman-like) he was wiſe afterwards.
+<pb n="8" facs="tcp:118264:5"/>
+A <hi>Malefactor</hi> at the Bar takes on heavily for fear of puniſhment, when haply his heart ſits as cloſe to his luſt as ever; for being let looſe, he followeth his old trade afreſh. True Repentance is Con<g ref="char:EOLhyphen"/>verſion of the heart, <note n="*" place="margin">Acts 3.19.</note> 
+               <hi>Repent</hi> and be <hi>Converted,</hi> which properly conſiſteth in renovation of the minde, <note n="*" place="margin">Rom. 12.2.</note> 
+               <hi>Be ye transformed by re<g ref="char:EOLhyphen"/>newing of your mindes;</hi> which is pertinently ſet forth by the Apoſtle, <hi>Rom.</hi> 6.19. <hi>As ye have yeelded your members ſervants to uncleanneſs and to iniquity, unto iniquity; even ſo now yeeld your members ſervants to righteouſneſs, unto Holineſs.</hi>
+            </p>
+            <p>
+               <hi>In the times of ignorance, &amp;c.</hi> The ſubject matter of this Text may be this; Ye men of <hi>Athens,</hi> that do ſo deſire after news, I de<g ref="char:EOLhyphen"/>clare unto you, That ye have ſpent your time in ignorance and blinde devotion, which God is willing to paſs by, provided ye be conver<g ref="char:EOLhyphen"/>ted and changed in your mindes; which thing God commandeth to be done by you, and all men every where in the world: This being conſidered, we ſhall draw this general Concluſion from the words of the Text:
+<q>
+                  <note place="margin">Doctrine.</note>It is the good will and pleaſure of Almighty God, that every Creature ſhould come to the attainment of Life and Sal<g ref="char:EOLhyphen"/>vation.</q>
+            </p>
+            <p>That which is ſpoken of the Peace of God, is moſt true of his Goodneſs, <hi>It paſſeth all underſtanding;</hi> that is, the narrow capa<g ref="char:EOLhyphen"/>city of the Creature is not able to comprehend the infinite love and kindneſs that is in God.</p>
+            <p>It is too much given to the Creature to limit the goodneſs of God: and when Gods univerſal Love unto all Mankinde is decla<g ref="char:EOLhyphen"/>red, then are arguments drawn of improbability, not unlike that of <hi>Abrahams, Gen.</hi> 17.7. <hi>Shall a childe be born unto him that is an hundred years old? And ſhall Sarah that is ninety years old bear?</hi>
+            </p>
+            <p>That God ſhould manifeſt love and kindneſs unto good and god<g ref="char:EOLhyphen"/>ly men, an account is eaſily rendred; but that God ſhould declare his mercy and compaſſion to the ungodly, that cannot be under<g ref="char:EOLhyphen"/>ſtood; although the Parable of the loſt ſheep be read unto them every Sabbath day: The ſick are the proper object of the Phyſicians cure: <hi>Chriſt came not to call the Righteous, but Sinners to Repentance.</hi>
+            </p>
+            <p>The Doctrine of Predeſtination: <hi>viz.</hi> That God, before all E<g ref="char:EOLhyphen"/>ternity, did elect and chooſe ſome perſons to Salvation (and them<g ref="char:EOLhyphen"/>ſelves
+<pb n="9" facs="tcp:118264:5"/>
+included in the number) pleaſeth very well; but that God chooſeth only through faith, and reprobates none but in reference to diſobedience of faith, is not reliſhed: notwithſtanding they know the Scripture where it is ſaid, <hi>He that believeth ſhall be ſaved, he that believeth not ſhall be condemned,</hi>
+               <note place="margin">John 3, 18.</note> 
+               <hi>becauſe he be<g ref="char:EOLhyphen"/>lieved not in the only begotten Son of God.</hi>
+            </p>
+            <p>
+               <hi>That Jeſus Chriſt</hi> came into the world to redeem ſome (and they the perſons) is well reſented; but that <hi>Jeſus Chriſt</hi> came into the world to ſave <hi>All,</hi> yea that which was <hi>loſt,</hi> is not ſo well ap<g ref="char:EOLhyphen"/>proved of.</p>
+            <p>The Prophet <hi>David,</hi> ſpeaking concerning the goodneſs of God,<note place="margin">Pſal. 145.9.</note> informs how far it doth extend; <hi>The Lord is good unto All, and his tender mercy is over All his works:</hi> It doth not read, good unto ſome, or exerciſing mercy unto part of his works, as divers would give it out.</p>
+            <p>Our <hi>Saviour</hi> in his Sermon upon the Mount, <hi>Mat.</hi> 5. conclu<g ref="char:EOLhyphen"/>deth the Chapter with theſe words, <hi>Be ye Merciful, as your hea<g ref="char:EOLhyphen"/>venly Father is Merciful:</hi> Which perfection did conſiſt in <hi>loving our enemies, doing good to them that hate us;</hi> and it is thus rea<g ref="char:EOLhyphen"/>ſoned, That if we love our friends that love us, or do good to them that do good to us; <hi>Heathens,</hi> Publicanes, are capable of ſuch a <note n="*" place="margin">Ingratus eſt qui gratiam.</note> degree of righteouſneſs: But the Saints of God muſt go further, their love and goodneſs muſt not only extend to friends, but ene<g ref="char:EOLhyphen"/>mies alſo, and that from a preſident in God their Father: <hi>Who maketh his Sun to riſe upon the evil, and on the good, and ſendeth rain upon the juſt, and on the unjuſt;</hi> that is to ſay, upon <hi>All,</hi> as was minded before from the <hi>Pſalmist, His tender mercy is over All his works.</hi>
+            </p>
+            <p>This <hi>tender mercy</hi> (I offer my judgment) hath relation unto <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> who is propoſed, or ſet forth by God the Father, an Univerſal Tender of Love to the whole <note n="*" place="margin">By <hi>Creation</hi> or <hi>Creature</hi> un<g ref="char:EOLhyphen"/>derſtand <hi>Man<g ref="char:EOLhyphen"/>kind.</hi>
+               </note> Creation: The Argu<g ref="char:EOLhyphen"/>ment <hi>Paul</hi> gives, why prayers for Kings, and ſuch as were inveſted with authority, though (as we have ground to believe) were (for the generality) wicked and ungodly perſons, was acceptable in the ſight of God, is concluded from Gods indefinite love to mankind; 1 <hi>Tim.</hi> 2.4. <hi>Who will have All men to be ſaved, and come to the knowledg of the truth: For there is one God, and one Mediator betwixt God and man, even the man Chriſt Jeſus, who gave him<g ref="char:EOLhyphen"/>ſelf a ranſom for All, &amp;c.</hi> And as the Apoſtle renders it in another
+<pb n="10" facs="tcp:118264:6"/>
+place, <note n="*" place="margin">Heb. 2.9.</note> 
+               <hi>That he</hi> (to wit, Jeſus Chriſt) <hi>through the grace or free gift of God taſted death for Every Man; whether Jew or Gentile, bond or free, male or female.</hi> Here is no limitation or reſtriction either of Nations or perſons, but according as Chriſt maketh it out, <hi>Joh.</hi> 3.14. <hi>As Moſes lifted up the Serpent in the Wilderneſs, ſo ſhall the Son of man be lifted up, that Whoſoever believeth in him ſhould not periſh, but have everlaſting life: For God ſo loved the World, &amp;c.</hi> In this ſimilitude Chriſt brings to our underſtanding a <hi>Myſtery:</hi> In the Hiſtory <note n="*" place="margin">Numb. 21<g ref="char:punc">▪</g> 9.</note> we read of bodies bitten by Serpents, and cured by a miraculous Ordinance of God: We find alſo in the <hi>Myſtery</hi> of the Goſpel that all have ſinned, and are venomed by the poyſon of that fiery Serpent the Devil; and Jeſus Chriſt is conſti<g ref="char:EOLhyphen"/>tuted and ſet forth as an <hi>Antidote</hi> to that poyſon, and Remedy againſt that ſting:<note place="margin">1 Cor. 15.</note> So the Apoſtle hath it, <hi>The ſting of death is ſin, the ſtrength of ſin is the Law; but thanks be to God which hath given us victory through our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>This incomprehenſible mercy was occaſioned through Gods love to the World, <hi>God ſo loved the World, that Whoſoever believ<g ref="char:EOLhyphen"/>eth, &amp;c.</hi> Under conſideration of the word <hi>World</hi> you may under<g ref="char:EOLhyphen"/>ſtand Gods indefinite Love to all mankind; and by <hi>Whoſoever,</hi> no man (as a perſon) by any intention of Almighty God is debarred from the benefit of his Love: <note n="*" place="margin">2 Cor. 4 4.</note> 
+               <hi>If Chriſt or the Gospel be hid, it is unto thoſe that periſh; whom Satan, the god of this world hath blind<g ref="char:EOLhyphen"/>ed, &amp;c. Jeſus Chriſt</hi> being ſent on purpoſe, <hi>that Whoſoever be<g ref="char:EOLhyphen"/>lieveth in him ſhould not periſh, but have everlaſting life.</hi>
+            </p>
+            <p>
+               <note place="margin">Object.</note>But this <hi>World</hi> that God ſo loved, is to be underſtood the world of Elect, and not all mankind?</p>
+            <p>
+               <note place="margin">Anſw.</note>I anſwer: That where ever you find the word <hi>World</hi> mentioned in Scripture, it doth either imply the whole Creation, as, <hi>God made the World; The World paſſeth away, &amp;c.</hi> or the major part of men in the World, <hi>The World lieth in wickedneſs:</hi> We cannot underſtand the Apoſtle included himſelf and the Saints, but the generality of people then living in the World.</p>
+            <p>Moreover obſerve it, the world <hi>World</hi> is ſo far from admitting any conſtruction in relation to Saints, Elect, or Believers, as that it is generally quoted in direct oppoſition to them; <hi>The World ſhall hate you:</hi>
+               <note place="margin">Iohn 17.</note> 
+               <hi>Ye ſhall weep, but the World ſhall rejoyce: The World hath not known thee: They are not of the World, &amp;c.</hi> So then it is evident, That the <hi>World</hi> is no where rendered for Elect, or Saints;
+<pb n="11" facs="tcp:118264:6"/>
+and the <hi>World</hi> here ſpoken of, doth comprehend all mankind: The better to rectifie this miſpriſion, ſee 1 <hi>Joh.</hi> 2.2. <hi>He is the propi<g ref="char:EOLhyphen"/>tiation for our ſins, and not for our ſins only, but for the ſins of the whole World:</hi> This the Apoſtle inferreth to declare the large extent of Chriſts Mediatorſhip; from the benefit whereof the whole World hath no ejectment: for ſaith <note n="*" place="margin">2 Pet. 3.9.</note> 
+               <hi>Peter, He is not willing that any ſhould periſh;</hi> which Negative produceth this Affirmative, <hi>but that all ſhould be Saved, and come to the knowledg of the truth:</hi> This Scripture, with others afore cited, may invite your credence to the Obſervation we are dwelling upon, <hi>viz. It is the good will and &amp;c.</hi>
+            </p>
+            <p>Although the Scripture in its ſelf be a ſufficient teſtimony to confirm every truth therein comprized, yet we find many Argu<g ref="char:EOLhyphen"/>ments by way of Illuſtration, uſed as Grounds and Reaſons for fur<g ref="char:EOLhyphen"/>ther conviction; as we may inſtance in our Saviour, when he re<g ref="char:EOLhyphen"/>futed the Sadduces doctrine of non-reſurrection; <hi>God</hi> (ſaith he) <hi>(as you grant) is the God of Abraham, the God of Iſaac, and the God of Jacob: Now God is not a God of the dead, but of the living;</hi> if ſo, then of neceſſity there is a Being after death: And likewiſe to his Diſciples for prevention of immoderate care, <hi>A Sparrow</hi> (ſaith he) <hi>doth not fall to the ground without the will of your heavenly Father;</hi> and it is he that clothes the Lillies in their royalty. Now conſider<g ref="char:punc">▪</g> Doth the providence of your heavenly Father extend to Sparrows? and doth he ſo beautifie the graſs in the fields? and do you think he will be unmindful of you (O ye of little faith?)</p>
+            <p>I ſuppoſe (my beloved friends) the Scriptures quoted may evi<g ref="char:EOLhyphen"/>dently manifeſt the truth of the Doctrine, yet I crave leave to offer to your conſideration ſome Arguments for your further confirm<g ref="char:EOLhyphen"/>ation.</p>
+            <p>The firſt Argument that gives me to apprehend,<note place="margin">1 Argument grounded from Gods propriety.</note> 
+               <hi>That it is the good Will and Pleaſure of Almighty God that every Creature ſhould come to the attainment of Life and Salvation,</hi> is grounded upon the propriety or intereſt that God is ſaid to have in all Crea<g ref="char:EOLhyphen"/>tures: <hi>Luke</hi> the Evangeliſt recording <hi>(ab origine)</hi> the deſcent of Chriſt from <hi>Joſeph</hi> to <hi>Adam,</hi> ſhutteth up the genealogy in theſe words, <hi>Which was the ſon of Adam, which was the ſon of God.</hi>
+               <note place="margin">Luke 3.38.</note> That the Creature had a Being in God, was acknowledged by thoſe heatheniſh Poets, and aſſerted by <hi>Paul,</hi> Acts 17.29. <hi>Foraſmuch as
+<pb n="12" facs="tcp:118264:7"/>
+we are all of his Off-ſpring, &amp;c.</hi> We ſhall only add that expreſſion of <hi>Moſes</hi> in his prayer, <hi>O God, thou art the God of the Spirits of all fleſh.</hi>
+               <note place="margin">Numb 16.22.</note> The ſcope and purport of theſe Scriptures is to declare God to be the Creator and Father of all Spirits.</p>
+            <p>
+               <hi>Abraham</hi> is ſaid to beget <hi>Iſaac, Iſaac Jacob, &amp;c.</hi> that is, the formative vertue, which did create hands, feet and limbs, did proceed from the perſons mentioned; but the Spirit, which gives <hi>Eſſence</hi> and <hi>Being</hi> to the Creature, cometh from God: <note n="*" place="margin">Simile.</note> A <hi>Window</hi> is ſaid to light the houſe when it is the <hi>Sun,</hi> for if the <hi>Sun</hi> withdraw his light (as in dark nights may be obſerved) the window lighteth the houſe no more then the wall: In this ſence, God is ſaid to open the womb of <hi>Rebecca,</hi> when he gave life to the formative vertue; ſo then, men are ſaid to beget men, when it's God that is the Father of all Spirits.</p>
+            <p>If a man have never ſo many children, he wiſheth the welfare of all; as may be inſtanced in <hi>Abraham,</hi> who provided not only for <hi>Iſaac</hi> and <hi>Iſhmael,</hi> but for thoſe children alſo that he had by <hi>Ke<g ref="char:EOLhyphen"/>turah,</hi>
+               <note place="margin">Gen. 25.5.</note> unto whom he gave gifts, and ſent them into the Wilderneſs: How did <hi>David</hi> lament over <hi>Abſalom,</hi> an undutiful ſon? Now if we that are wicked deſire the welfare and happineſs of our own children, can we have ſuch hard thoughts of God, as to create a Soul on purpoſe to deſtroy it: <hi>Behold</hi> (ſaith the Lord) <hi>All Souls are mine, the Soul of the father, and the Soul of the ſon: I have no pleaſure in the death of him that dyeth.</hi>
+            </p>
+            <p>
+               <note place="margin">2 Argument grounded upon Gods Invitation.</note>The ſecond Argument is grounded upon the ſeveral Invitations of God to the Creature: we read, <hi>Prov.</hi> 1.10. theſe expreſſions; <hi>Wiſdom cryeth without, ſhe uttereth her voyce in the ſtreet: How long ye ſimple ones will ye love ſimplicity, and ſcorners delight in ſcorning, and fools hate knowledg? Turn ye at my reproof, &amp;c.</hi> Under favour (my Maſters) this Wiſdom here ſpoken of cannot be interpreted as a <hi>Herauld</hi> or <hi>Cryer</hi> publiſhing ſuch an Oration in a City, Palace, or ſuch like convention of people; but it is the voyce of God <hi>fixed</hi> or <hi>proclaimed</hi> in the market place, or <hi>heart</hi> of every Creature (that is to ſay, of mankind) where the aſſembly and con<g ref="char:EOLhyphen"/>courſe of the affections have their place of meeting, and the faculties of rationality ſit in councel; there the voyce of Almighty God is preſent by a manifeſtation of his Wiſdom, or motions of his holy Spirit, reproving and condemning all adverſe and repugnant inten<g ref="char:EOLhyphen"/>tions of our hearts in diſſonancy or contrariety of his Will. I pray
+<pb n="13" facs="tcp:118264:7"/>
+anſwer me this queſtion; What is that which giveth a check to yours and my Conſcience, when we intend evil againſt God, or our Neighbor? and whether or no, upon the commitment of ſin, there hath not been a voyce of God ſpeaking in every one of our hearts, <hi>this ought not to be done?</hi> I think the worſt of men wil acknowledg it; (onely ſuch excepted who <hi>liked not to retain God in their know<g ref="char:EOLhyphen"/>ledg)</hi> ſuch indeed are given up to <hi>ſtrange deluſions.</hi>
+               <note place="margin">Rom. 1.</note>
+            </p>
+            <p>Satan (as he dealt with <hi>Eve)</hi> preſents the beauty of the apple; but God ſaid, <hi>In the day thou eateſt thereof, thou ſhalt dye:</hi> Mark this well, <hi>Satan</hi> pleaſeth the fancy of the Creature, the better to accompliſh his ruine; God informeth the judgment of man for his preſervation: I remember a precious expreſſion in the Prophet <hi>Iſaiah, Look up unto me all ye the Iſles of the earth, and be ſaved:</hi>
+               <note place="margin">Iſaiah 45.22.</note> Here you may perceive the plenitude of Gods Tender, even unto all Nations upon the face of the earth; <hi>All men every where</hi> (as the Text hath it.) Obſerve (my beloved Friends) if God commands all men to repent and turn unto him, wiſheth all Nations to look up to him for Salvation; certainly God hath not mental reſervati<g ref="char:EOLhyphen"/>on, but (as we ſay) ſpeaks the Truth from his heart, willing <hi>None</hi> ſhould periſh, but <hi>All</hi> to partake of everlaſting life: <hi>Ho, every one that thirſteth, come ye to the waters, and he that hath no money:</hi>
+               <note place="margin">Iſai. 55.1.</note> 
+               <hi>come ye, buy, and eat, &amp;c. Whoſoever will,</hi>
+               <note place="margin">Rev. 22 17.</note> 
+               <hi>let him take of the water of life freely:</hi> By which Scriptures you may apprehend, that Almighty God (leſt the Creature ſhould plead ignorance or unwor<g ref="char:EOLhyphen"/>thineſs) maketh proclamation of his free goodneſs unto mankinde, without reſtriction or exception of any (as perſons) and that from theſe words, <hi>Ho</hi> and <hi>Whoſoever.</hi>
+            </p>
+            <p>And now from this argument I thus infer; If God, by his <hi>wiſ<g ref="char:EOLhyphen"/>dom,</hi> which is the voyce of his <hi>Spirit</hi> to the heart within, and if God, by his Word or Miniſtry (which is his outward means) woo<g ref="char:EOLhyphen"/>eth and inviteth all Mankinde to partake of his Love and Goodneſs; is it not to declare the truth of the Doctrine now inſiſted upon? <hi>viz. That it is the good will and pleaſure of Almighty God, that every Creature ſhould come to the attainment of Life and Salva<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>The third Argument is drawn from the ſorrow or complaint that Almighty God is ſaid (according to the Scripture ſence) to take up,<note place="margin">3 Argument drawn from Gods ſorrow or complaint. Deut. 5.29.</note> upon conſideration of the deviation or deſtruction of the Creature; <hi>Oh that there were ſuch an heart in them: Oh that my people
+<pb n="14" facs="tcp:118264:8"/>
+would but harken: Why will ye dye, O houſe of Iſrael?</hi> See here Gods expreſsions of love, not onely deſiring <hi>Iſraels</hi> conformity, but argueth out the caſe; <hi>Why will ye dye?</hi> What reaſon have you to deſtroy your ſelves? Is there any cauſe that neceſsitates you to periſh? Its ſtrange to me it ſhould be ſo: <hi>As I live, ſaith the Lord,</hi>
+               <note place="margin">Ezek. 33.11.</note> 
+               <hi>I have no pleaſure in the death of the wicked, but that the wicked ſhould turn from his way and live; turn ye, turn ye from your evil ways; for why will ye dye, O houſe of Iſrael? &amp;c.</hi> Here the Lord doth declare his diſaffection to the Creatures ruine by Oath, which (as the Apoſtle hath it) is uſed for confirmation and ending of all ſtrife; <hi>As I live, ſaith the Lord, I deſire not the death, &amp;c.</hi>
+            </p>
+            <p>It is recorded of a <hi>Roman</hi> Emperor, when he pronounced ſen<g ref="char:EOLhyphen"/>tence againſt a Malefactor, he uſed this language, <note n="*" place="margin">Utinam neſci<g ref="char:EOLhyphen"/>rem Leg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s. <hi>Nero.</hi>
+               </note> 
+               <hi>Would to God I had not known the Laws?</hi> Whether there be truth in this ſtory, or reality in the expreſsion, it matters not; but moſt ſure it is, that Almighty God, the great King of Heaven and Earth, proceedeth not to ſentence for ſin, without reluctancy: The Prophet <hi>Jeremiah</hi> in his <hi>Lamentations</hi> readeth thus; <hi>He doth not afflict</hi> WILL<g ref="char:EOLhyphen"/>INGLY,<note place="margin">Lam. 3.33.</note> 
+               <hi>nor</hi> GRIEVE <hi>the Children of men.</hi>
+            </p>
+            <p>It is worthy of our ſerious conſideration, to obſerve what ſor<g ref="char:EOLhyphen"/>row of heart and tenderneſs in affection our bleſſed Saviour expreſſ<g ref="char:EOLhyphen"/>ed over <hi>Jeruſalem,</hi> when he ſentenced their ejectment, or rendred them uncapable of any further favor; <hi>O Jeruſalem, Jeruſalem, thou that killeſt the Prophets,</hi>
+               <note place="margin">Mat. 23 37.</note> 
+               <hi>and ſtoneſt them that are ſent unto thee, How often would I have gathered thy Children together, as a Hen gathereth her Chickens, and ye</hi> 
+               <note n="*" place="margin">'Tis not ſaid, <hi>Ye could not.</hi>
+               </note> 
+               <hi>Would not? Behold, your houſe is left deſolate: If thou hadſt known in this thy day the things that belong to thy peace, but now they are hid from thine eyes:</hi> When he approached neer the holy City (ſaith the Evangeliſt) <hi>he wept over it:</hi> Strong are thoſe affections that break forth in <hi>Weep<g ref="char:EOLhyphen"/>ing,</hi> and great was that <hi>LOVE</hi> that drew <hi>Tears</hi> from the Son of God.</p>
+            <p>I pray conſider by what pertinent ſimilitude our Saviour maketh out his Love to <hi>Jeruſalem, As a Hen gathereth her Chickens, &amp;c.</hi> Amongſt other Creatures that are indulgent for procreation, the Hen is obſerved, by great diligence, to bring her brood to maturity; how careful is ſhe to cover her charge! and during time departeth not therefrom, unleſs neceſsitated by extream hunger: when her
+<pb n="15" facs="tcp:118264:8"/>
+charge is brought to perfection, how doth ſhe endevor to rally her young ones together! never at reſt longer then they are under co<g ref="char:EOLhyphen"/>vert of her own feathers; and in caſe violence be offered to her young, what creature is it that with undaunted courage ſhe will not fly in face on?</p>
+            <p>Much more might be ſaid by way of illuſtration; but ye are to underſtand, that the end of Similitudes or Parables is to declare, not to compare, as may be inſtanced by the Parables of the <hi>unjust Steward, unjust Judg, &amp;c.</hi> So here, the ſimilitude of the tender<g ref="char:EOLhyphen"/>neſs of the Hen over her young doth manifeſt ſomething of Chriſts Love; all compariſons in the world being too low to parallel the extent thereof.<note place="margin">Luke 15.</note> I remember when Chriſt was accuſed by the Pha<g ref="char:EOLhyphen"/>riſees for having ſociety with <hi>Publicanes and ſinners</hi> (taking bold<g ref="char:EOLhyphen"/>neſs to paraphraſe upon the Diſcourſe) he reaſoneth after this man<g ref="char:EOLhyphen"/>ner; Well, Sirs, (ſaith he) I perceive I am the object of your diſ<g ref="char:EOLhyphen"/>content, and that in reference to my familiarity among wicked and ungodly men: Come now, let us debate the matter; I conclude you be ſheep-maſters, I would ſee that man amongſt you, having an hundred ſheep, and loſing but one of that hundred, which will not leave his ninety and nine in the wilderneſs, to ſeek that one ſheep, and having found it, he rejoyceth more for the recovery of that one ſheep, then at the poſſeſsion of ninety nine that ſtrayed not: Is this hiſtory true touching your ſheep? and cannot you un<g ref="char:EOLhyphen"/>derſtand this myſtery? All creatures in the world, all men and women in the world, are my heavenly Fathers, if any perſon break the fold, or wandereth in evil ways and by-paths of ſin or igno<g ref="char:EOLhyphen"/>rance, he carefully endevoreth to regain him; which if accom<g ref="char:EOLhyphen"/>pliſhed, <hi>There is more joy over one ſinner that repenteth, then o<g ref="char:EOLhyphen"/>ver ninety nine juſt perſons, who need no repentance.</hi> I might add ſomething touching the loſt groat, but I ſhall not multiply preſi<g ref="char:EOLhyphen"/>dents, leſt I burthen your memories; onely give me way to ſpeak a word or two to the Parable of the Prodigal, and then I ſhall pro<g ref="char:EOLhyphen"/>ceed.</p>
+            <p>Although the Parables of the loſt ſheep and groat were ſufficient to reprove the Phariſees of their harſh ſentence, yet our Saviour (for their better conviction) addeth this compariſon of a man hav<g ref="char:EOLhyphen"/>ing two ſons, the younger demanded his portion,<note place="margin">Luk. 15.12.</note> went into a far Country, waſted his patrimony, &amp;c. and when he returned home, his father was ſo far from calling him to account for his Prodigality,
+<pb n="16" facs="tcp:118264:9"/>
+as that he uſed all expreſsions of love unto him, met him in the way, kiſſed him, richly clothed him, put ſhoes to his feet, gold to his hand, (all which, as alſo the Parable it ſelf, is of ſpiritual con<g ref="char:EOLhyphen"/>ſtruction,) and when the eldeſt Son repined at his younger Bro<g ref="char:EOLhyphen"/>thers entertainment, his Father ſilenced him with theſe words; <hi>It is meet that we ſhould make merry, and be glad; for this thy bro<g ref="char:EOLhyphen"/>ther was dead, and is alive again; was loſt, and is found.</hi>
+            </p>
+            <p>It would ask more time then I have (by Gods permiſſion) to ſpend at this preſent, to unfold the myſtery of the whole Parable; onely take notice from the grudgings of the elder brother, as alſo the evil eye of the laborers in the vineyard, upon their maſters kindneſs to their fellow ſervants,<note place="margin">Matth. 20.</note> How ſubject Creatures are to repine at the goodneſs of God conferred upon their brethren.</p>
+            <p>
+               <hi>He was dead, and is alive,</hi> (ſaith the Text:) Obſerve, my be<g ref="char:EOLhyphen"/>loved Friends, the life of man doth not conſiſt onely in exerciſing the faculties of Nature, as breathing, ſpeaking, acting, &amp;c. but chiefly in the enjoyment of God, without which the Creature, though alive to the world, yet is he really dead in himſelf: <note n="*" place="margin">Simile.</note> A tree that is newly felled, may have boughes and bloſſoms anſwerable un<g ref="char:EOLhyphen"/>to other trees, yet is truly dead, as being ſeparated from the root: even ſo, ſaith the Apoſtle, <hi>they that live in pleaſures, are dead, while they live.</hi>
+            </p>
+            <p>
+               <hi>He was loſt, and is found:</hi> Every Soul, departing from God, loſeth it ſelf, though never ſo ſenſible of the way it walketh in. <hi>Jonah</hi> knew whither he went when he marched to <hi>Anathoth,</hi> yet loſt himſelf, having received Orders for his advance to <hi>Nine<g ref="char:EOLhyphen"/>veh.</hi> The heart of man is a notable Sophiſter (giving heed to Sa<g ref="char:EOLhyphen"/>tans Logique) filleth the <hi>Microſmos,</hi> or little Univerſe of Man, full of miſpriſions, that when he thinketh he ſtands, he falls; when he thinketh he ſaveth his life, he loſeth his life: when he thinketh he hath a good bargain, he loſeth himſelf in the purchaſe. In this ſence, He truly buys gold too dear, that winneth the world with the loſs of his Soul.</p>
+            <p>Pardon, I pray, this circumlocution, and take notice with me, from the Parable of the Prodigal, this one thing; That if it be an undubitable matter of rejoycing to receive a dead childe to life, or for a childe that was loſt to finde the way home again, (the grief of both Parents in ſuch a condition being great, but eſpecially of the latter, if you have heard the ſad complaint of divers in <hi>London,</hi> and
+<pb n="17" facs="tcp:118264:9"/>
+elſewhere, who have been made ſenſible of ſuch an affliction,) then certainly we may ſee what our Saviour thus methodically gives us to underſtand by the ſimilitude, to wit, <hi>That it is well pleaſing to Almighty God, that every Creature ſhould come to the attainment of Life and Salvation.</hi>
+            </p>
+            <p>But methinks I hear ſome object and ſay, <hi>That they cannot be<g ref="char:EOLhyphen"/>leeve that Chriſt dyed for the World, or that God is ſo open-hand<g ref="char:EOLhyphen"/>ed unto all Creatures; but rather</hi> (according to the Doctrine of the Reformed Churches) <hi>that God predeſtinateth ſome to life and Salvation, and of thoſe there is an impoſſibility of periſhing: Others he hath appointed to death and destruction, and of ſuch no poſſibility of Salvation:</hi> And for their Faith in this particular there are many warrants from Scripture; <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Prov.</hi> 16.4. <hi>The Lord hath made all things for himſelf; yea,</hi>
+               <note place="margin">1 <hi>Object.</hi>
+               </note> 
+               <hi>the wicked for the day of evil:</hi> From whence it is reaſoned, <hi>That God</hi> (acting from a principle of his own Will) <hi>made all things for his glory, and conſequently the wicked for the day of evil, that his power may be manifeſted.</hi>
+            </p>
+            <p>
+               <hi>Jude</hi> 4. <hi>There were certain men crept in,</hi>
+               <note place="margin">2 <hi>Object.</hi>
+               </note> 
+               <hi>who of old were or<g ref="char:EOLhyphen"/>dained to this condemnation:</hi> From this Scripture is proved the Doctrine of <hi>Reprobation,</hi> viz. <hi>That God of old, or from all Eter<g ref="char:EOLhyphen"/>nity, did ordain, or appoint, certain perſons unto condemnation.</hi>
+            </p>
+            <p>
+               <hi>Rom.</hi> 9.13. <hi>Jacob have I loved, and Eſau have I hated:</hi>
+               <note place="margin">3 <hi>Object.</hi>
+               </note> From this Text it is manifeſt, <hi>That God, in his Decree of Election</hi> (before they were born, or had done good or evil) <hi>did appoint Jacob and his ſeed to Life and Salvation, Eſau and his poſterity to Hell and Deſtruction.</hi> So then, taking the Scriptures together; Firſt, that in <hi>Prov.</hi> 16. proveth <hi>the ſoveraignty of God, in making the wicked for the day of evil.</hi> Secondly, that in <hi>Jude</hi> proves, <hi>That in the determinate Counſel of God certain men were appointed to De<g ref="char:EOLhyphen"/>ſtruction.</hi> Laſtly, that of <hi>Rom.</hi> 9. manifeſteth <hi>Gods free Election, in chuſing Jacob, and refuſing Eſau:</hi> Which being conſidered, how can the Doctrine be cloſed with, that hath been delivered? <hi>viz. That it is the good will and pleaſure of Almighty God, that every Creature ſhould come to the attainment of Life and Sal<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <p>Now, Sirs, ye have heard the ſtrength of the Objection, let me crave your attention to the Reply; Indeed the Scriptures produced (through miſ-underſtanding) may have ſome ſeeming oppoſition,
+<pb n="18" facs="tcp:118264:10"/>
+but if rightly weighed, they infer no ſuch thing: Therefore we ſhall anſwer to the ſeveral Objections in order.</p>
+            <p>
+               <note place="margin">Anſwer to the firſt Object.</note>To the firſt, <hi>Prov.</hi> 16.4. <hi>The Lord hath made all things for himſelf; yea, the wicked for the day of wrath:</hi> where, from Gods plenipotency over the Creatures, is argued, <hi>That God made wicked men,</hi>
+               <note place="margin">Gen. 1.</note> 
+               <hi>and appointed them to Deſtruction;</hi> we anſwer, That all God made was good, yea, ſaith the Scripture, <hi>exceeding good;</hi> and that perſons be degenerated, is through prevarication of their own hearts; for <hi>God made man righteous, but he ſought out his own inventions:</hi> Therefore, as the Apoſtle <hi>James</hi> hath it, <hi>Let no man ſay,</hi>
+               <note place="margin">Iam. 1.</note> 
+               <hi>when he is tempted, that he is tempted of God; for God tempteth no man, &amp;c.</hi> And that wicked men taſte of deſtruction, is not from a neceſſity of God <hi>willing</hi> it ſo, but by reaſon of their own impe<g ref="char:EOLhyphen"/>nitency; <hi>he having no pleaſure in the death of him that dyeth, but rather that he ſhould turn from his wickedneſs and live:</hi> And whereas it is ſaid, <hi>That Wicked are for the day of wrath,</hi> it may have alluſion to <hi>Pauls</hi> words, <hi>Meats for the belly, and the belly for meats, but God, &amp;c.</hi> So wicked perſons for deſtruction, and de<g ref="char:EOLhyphen"/>ſtruction is a fit and proper place for wicked men, not that <hi>God willeth that any ſhould periſh, but all ſhould come to the know<g ref="char:EOLhyphen"/>ledg of the Truth.</hi>
+            </p>
+            <p>
+               <note place="margin">Anſwer to the ſecond Objec.</note>To the ſecond Objection, <hi>Jude</hi> 4. <hi>Certain men were ordained of Old unto condemnation:</hi> From whence is gathered<g ref="char:punc">▪</g> 
+               <hi>That God from Eternity did appoint ſome perſons to deſtruction;</hi> be it an<g ref="char:EOLhyphen"/>ſwered from the ſame Verſe, That thoſe certain perſons were <hi>ungodly men, turning the grace of God into wantonneſs;</hi> ſo their condemnation did ariſe from their ungodlineſs and unprofitable<g ref="char:EOLhyphen"/>neſs under the means of grace, <hi>turning it into laſciviouſneſs,</hi> and not barely as they were perſons.</p>
+            <p>
+               <note place="margin">Object.</note>But you will ſay, <hi>Thoſe Perſons were condemned of OLD,</hi> (that is to ſay) <hi>before they were born,</hi> or <hi>in a capacity to act un<g ref="char:EOLhyphen"/>godlineſs,</hi> or <hi>prevaricate grace tendered.</hi>
+            </p>
+            <p>
+               <note place="margin">Anſw.</note>I anſwer, That the condemnation, here preceding, hath wholy relation to the evil in thoſe men, and not at all to the perſons (as ſimply conſidered in themſelves,) I ſhall give you an inſtance; Sup<g ref="char:EOLhyphen"/>poſe there were an Act of <hi>Parliament</hi> made in this year, <hi>That Drunkenneſs ſhould be puniſhed with death;</hi> Are not all Drunk<g ref="char:EOLhyphen"/>ards (though it be five hundred years after) condemned to dye by that Law? not as they are <hi>Richard, Thomas,</hi> or <hi>John</hi> ſuch a one, &amp;c.
+<pb n="19" facs="tcp:118264:10"/>
+but as Drunkards or perſons offending ſuch a righteous Law?</p>
+            <p>The Decree, or Predeſtination of God from Eternity, was, <hi>That he would wound the hairy ſcalp of every one that goeth on in ini<g ref="char:EOLhyphen"/>quity: And the <g ref="char:V">Ʋ</g>ngodly ſhall be turned into Hell, and All that forget God:</hi> This Decree, or Ordination, doth not condemn any as <hi>Perſons,</hi> but hath ſolely reference to <hi>Tranſgreſſors:</hi> Therefore I ſay to every Soul here preſent, that is enquiring after the Doctrine of Predeſtination, as Saint <hi>Paul</hi> doth of the Law, 1 <hi>Tim.</hi> 1.9. <hi>It is not made for a righteous man, but for the diſobedient, for the ungodly, for unholy and profan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> And <hi>wilt thou not be afraid of the power? do that which is good,</hi>
+               <note place="margin">Rom. 13.3.</note> 
+               <hi>and thou ſhalt have praiſe of the ſame:</hi> And reſt ſatisfied of this undeniable Truth, That there is predeſtinated, <hi>Tribulation to every Soul that doth evil,</hi>
+               <note place="margin">Rom. 2.</note> 
+               <hi>upon the Jew firſt, and alſo of the Gentile: Glory, honor, and immor<g ref="char:EOLhyphen"/>tality upon every Soul that worketh Righteouſneſs, upon the Iew firſt, and alſo of the Gentile; for God is no Respecter of Perſons:</hi> That is to ſay, <hi>He will reward every man according to his works.</hi>
+            </p>
+            <p>And laſtly, to the third Objection,<note place="margin">Anſwer to the third Object.</note> grounded upon <hi>Jacob</hi> and <hi>Eſau,</hi> from whence is inferred <hi>Election</hi> and <hi>Reprobation</hi> of perſons before they had a Being: I thus proceed to anſwer (not to trouble you with the Tranſlators formality in rendering the 11 Verſe, in<g ref="char:EOLhyphen"/>cluſively a <note n="*" place="margin">The ſence is current from Verſ. 10. to 12</note> 
+               <hi>Parentheſis)</hi> which is an interpoſition of a word, or ſentence, not preciſely, or of abſolute neceſſity, contingent to the Diſcourſe) you are to underſtand, the words had no relation unto the perſon of <hi>Eſau</hi> or <hi>Jacob,</hi> but to their poſterities, and not to their poſterities in point of Salvation and Damnation, but in rela<g ref="char:EOLhyphen"/>tion to outward <hi>Lordſhip</hi> and outward <hi>Vaſſallage;</hi> and this I hope to clear, and for your better ſatisfaction turn to the 25 of <hi>Geneſis,</hi> and about <hi>verſ.</hi> 20. you ſhall have this ſtory recorded, <hi>viz.</hi> That <hi>Rebeccah,</hi> in the time of her child-bearing of <hi>Jacob</hi> and <hi>Eſau,</hi> was exceedingly troubled with ſtrugglings within her, and in her diſtreſs maketh application unto God in theſe words, <hi>Lord, why am I thus troubled?</hi> The Lord (who is always ready to hear the deſires of his people) maketh her this Anſwer, <hi>The Elder People ſhall ſerve the Younger:</hi> which words we may ſafely interpret after this wiſe; Thy <hi>Burden</hi> in thy womb is two male children, from whoſe lineage ſhall ariſe two Nations, and thoſe people that ſhall proceed from the <hi>Elder Brother,</hi> ſhall be in ſubjection to thoſe people that ſhall
+<pb n="20" facs="tcp:118264:11"/>
+ſpring from the <hi>Younger Brother;</hi> the certainty of the event whereof is now typified by the now ſtriving and ſtruggling of the children in thy womb: So here, you ſee the Prophecy, manifeſted to <hi>Rebekah,</hi> had no cognizance to the perſons of <hi>Eſau</hi> and <hi>Jacob,</hi> but poſterities, and in their poſterities no further extent then out<g ref="char:EOLhyphen"/>ward <hi>domination</hi> and <hi>ſubjection:</hi> For conſider, <hi>Jacob</hi> was <hi>Eſaus</hi> ſervant, and <hi>Eſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> was <hi>Jacobs</hi> lord; but in the revolution of time, <hi>David,</hi>
+               <note place="margin">2 Sam. 8.10.</note> who was of the deſcent of <hi>Jacob,</hi> ſubdued <hi>Edom,</hi> For <hi>in all Edom put he Gariſons,</hi> that is, kept the <hi>Edomites</hi> in ſubjection, who were of the race of <hi>Eſau;</hi> and there you have a period to that Prophecy<g ref="char:punc">▪</g> And to rectifie that miſtake that is apt to be har<g ref="char:EOLhyphen"/>boured from this Text, take notice, That that which the Lord told <hi>Rebekah</hi> (before the children were born) was this; <hi>The Elder People ſhall ſerve the Younger;</hi> and not Gods fore-intentional hatred of <hi>Eſau,</hi> or love to <hi>Iacob;</hi> for that the Apoſtle declares he found written afterwards, as in divers places of Scripture, for divers cauſes, take <hi>Amos</hi> 1.11. <hi>For three tranſgreſſions, and for four of Edom, I will not turn away the puniſhment thereof, Becauſe he purſued his brother, &amp;c.</hi> Obad. 10. <hi>For thy violence againſt thy brother Iacob, ſhame ſhall cover thee, &amp;c.</hi> By theſe Scriptures it appeareth, That <hi>Eſau,</hi> who was a Fornicator and prophane perſon, and his poſterity alſo an ungodly and oppreſſive generation of men, for violence and oppreſſion of their brethren, are ſaid (in the Scrip<g ref="char:EOLhyphen"/>ture ſence) to be hated or rejected of God in the ſame manner, (as I apprehend) that God is ſaid to reject <note n="*" place="margin">Mark <hi>Reader</hi> God equally hated wicked men of <hi>Jacobs</hi> race, as well as of <hi>Eſaus.</hi>
+               </note> 
+               <hi>Saul</hi> in <hi>Samuels</hi> time, and to hate the hypocritical new moons in <hi>Iſaiahs</hi> generation, and wick<g ref="char:EOLhyphen"/>ed men in <hi>Davids</hi> time; God hating, or rather not having pleaſure in the workers of iniquity: For you are to underſtand, that many expreſſions in Scripture do declare ſome manifeſtation of the deal<g ref="char:EOLhyphen"/>ings of God in the Creatures language, the better to condeſcend to his capacity, and not that there is a different qualification in one in<g ref="char:EOLhyphen"/>tire <hi>Eſſence,</hi> (as the Schoolmen have it,) <note n="*" place="margin">Simplex non fit compoſitum.</note> Whatſoever is of a ſimple Being, cannot admit of Compoſition; Light cannot comprehend darkneſs, neither can darkneſs comprehend light. So then, it is the creatures miſapprehenſion to conclude, That God (who is perfect Love in his own Eſſence) can produce effects of anger or hatred. <note n="*" place="margin">Simile.</note> A priſoner at the Bar looks upon the Judg as angry and haſty to deſtroy his life, when the Judg (as he ought) is of the priſoners counſel, and out of love and tender pity to the priſoner ſheweth him
+<pb n="21" facs="tcp:118264:11"/>
+all the favour the Law will admit: We <hi>Adamites,</hi> through guilt of our own conſciences, for breach of a righteous Law, behold God as angry or diſpleaſed, but the Lord is <hi>Kind</hi> and <hi>Merciful,</hi> and of <hi>his Goodneſs there is no end.</hi> 
+               <note n="*" place="margin">Simile.</note> In gloomy weather we are apt to ſay, the Sun hath not ſhined, when Clouds and Vapours only inter<g ref="char:EOLhyphen"/>poſe; the Sun being wholly compoſed of light never ceaſeth to put forth his beams: If we taſte not of the loving kindneſs of God, or behold not the comfortable light of his countenance, our iniquities are the clouds that ſeparate theſe good things from us, and not the Will or Ordination of Almighty God, who is Goodneſs it ſelf; and <hi>How often would I, and ye Would not, &amp;c.</hi>
+            </p>
+            <p>Again, If you take up, from theſe words, <hi>viz. Jacob have I loved, and Eſau have I hated,</hi> this concluſion, That <hi>Jacob</hi> and his poſterity (ſimply as perſons fore known) were the objects of the Love of God, and conſequently appointed for Salvation; and <hi>Eſau</hi> with his poſterity objects of Gods Hatred, and ſo undoubtedly reſerved for deſtruction: I pray, my Maſters, give me your thoughts of theſe Scriptures, <hi>Iſaiah</hi> ſaith, <hi>Though Iſrael be as the ſand on the Sea, yet a Remnant ſhall be ſaved:</hi> Our Saviour ſaith, <hi>That Many ſhall come from the Eaſt, and from the Weſt, and from the North, and from the South, and ſit down with Abraham, Iſaac and Jacob; and the Children of the Kingdom ſhall be thruſt out:</hi> To which I add that of <hi>Paul; Jew and Gentile, male and female, are All One in Jeſus Chriſt:</hi> Which (as to other Nations) ſo to us Engliſhmen, is a comfort, though we ſhould be of the race of <note n="*" place="margin">Certain it is, we are not of <hi>Jacobs</hi> poſte<g ref="char:EOLhyphen"/>rity.</note> 
+               <hi>Eſau.</hi> And thus I hope I have plained this Mountain, which ſo frequently (with ſuch confidence) is ſet in oppoſition to the Doctrine, <hi>viz. It is the good Will and Pleaſure of &amp;c.</hi>
+            </p>
+            <p>But the whole ſubſtance of the Chapter doth imply Election and Reprobation of perſons<g ref="char:punc">▪</g>
+               <note place="margin">4 <hi>Object.</hi>
+               </note> as Verſ. 15. <hi>I will have mercy on whom I will have mercy; I will have compaſſion on whom I will have compaſſion.</hi> Verſ. 18. <hi>Therefore he will have mercy on whom he will have mercy, and whom he will he hardeneth.</hi>
+            </p>
+            <p>I give my judgment,<note place="margin">Anſw.</note> That the main drift and ſcope of the A<g ref="char:EOLhyphen"/>poſtle in theſe words is, to take off the ſelf-conceit or priviledg that the Jews took to themſelves touching their deſcent from <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> with their imaginary righteouſneſs by the works of the Law, and to fix them upon expectation for righteouſneſs from free grace in Jeſus Chriſt; and that no action of the creature can merit or
+<pb n="22" facs="tcp:118264:12"/>
+challenge any priviledg in the favour or love of God, becauſe when <hi>we have done All, We are unprofitable Servants;</hi> which the A<g ref="char:EOLhyphen"/>poſtle doth illuſtrate from the Speech of God to <hi>Moſes,</hi> when he deſired to ſee the face of God:<note place="margin">Exod. 33.19.</note> 
+               <hi>I will be merciful to whom I will be merciful; I will be gracious unto whom I will be gracious:</hi> We may apprehend, that the words were ſpoken to declare, That al<g ref="char:EOLhyphen"/>though <hi>Moſes</hi> was a faithful Servant in all his houſe, yet the favour granted him was not out of conſideration of any merit in <hi>Moſes,</hi> but an act of grace from God: for ſaith the Lord, <hi>I will be graci<g ref="char:EOLhyphen"/>ous unto whom I will be gracious, &amp;c.</hi> and for the poſitive conclu<g ref="char:EOLhyphen"/>ſion, <hi>viz. I will have mercy on whom I will have mercy, and whom he will he hardeneth.</hi> To prevent the prepoſterous adminiſtration of Love and Judgment which (from theſe words) many conclude to be in God,<note place="margin">Exod. 20.</note> the Scripture ſhall unty this knot: The Lords will and pleaſure is to <hi>Have Mercy</hi> on ſuch that <hi>fear him;</hi> and thoſe that <hi>like not</hi> to retain God in their knowledg,<note place="margin">2 Command.</note> ſuch he is ſaid to harden,<note place="margin">Rom. 18.</note> or rather giveth them up to a reprobate ſence; to periſh through their wickedneſs.</p>
+            <p>
+               <note place="margin">5 <hi>Object.</hi>
+               </note>But is it not in expreſs words ſaid, <hi>GOD hardened Pharaohs heart?</hi>
+            </p>
+            <p>
+               <note place="margin">Anſw. Cooks Inſtit. <hi>pag<g ref="char:punc">▪</g> 27.</hi>
+               </note>I make anſwer to this Objection, as a learned Lawyer did of the Law, When any point (through Nicety thereof) doth admit of a doubtful interpretation, ſuch a conſtruction is to be made, as may avoyd abſurdity. All you that hear me will go along with me in this, That it was an evil in <hi>Pharaoh</hi> to have a hard heart againſt the Commands of Almighty God; if ſo, will it not be abſurd to con<g ref="char:EOLhyphen"/>clude God the Author of this evil? Again, you all grant, That it was juſt with Almighty God to deſtroy <hi>Pharaoh</hi> for his hard heart againſt the <hi>Iſraelites,</hi> and will it not be prepoſterous for you to make God the Author both of the evil and the puniſhment? <note n="*" place="margin">Simile.</note> If a Colonel ſhould command a party of his Regiment to march out up<g ref="char:EOLhyphen"/>on a deſign, and afterwards cauſe them to be condemned at a Coun<g ref="char:EOLhyphen"/>cel of War for being out of their Quarters, were not this unequal? My beloved Friends, That Moddel of Righteouſneſs and Juſtice which is in Mankind, is but a glimpſe or beam of the God of Righ<g ref="char:EOLhyphen"/>teouſneſs placed in the creature, having alluſion to the Apoſtles words, <hi>The Fooliſhneſs of God is Wiſer then the wiſdom of men;</hi> then I ſay, That the unrighteouſneſs of God (if ſuch a thing could be imagined) is more righteous then the righteouſneſs of men:
+<pb n="23" facs="tcp:118264:12"/>
+So then, you may perceive how obſcaene and abſurd it is, to conclude God the Author of ſin and puniſhment in the Creature; this is the only property and practiſe of Satan, mans adverſary, and not of God, who is a Lover of all mankind: And I give my judgment, That the Lord cannot be ſaid (without abſurdity) to harden <hi>Pharaohs</hi> heart, as by putting therein a malevolent diſpoſition contrary to his will; but the Lord ceaſing to exerciſe further patience, and his good<g ref="char:EOLhyphen"/>neſs ſtanding in the <hi>abſtract</hi> unto <hi>Pharaoh;</hi> in that ſence God is ſaid to harden <hi>Pharaohs</hi> heart. <note n="*" place="margin">Simile.</note> A man that is towing a Barge up the river, letting go the cord, is ſaid to ſend the veſſel down the water, but it is the ſtream that carryeth the Barge away: So the Lord ceaſing to draw, or make uſe of cords and adminiſtrations of his Love, (the creature being left in the corrupt channel of his own affections) is hurried down the ſtream to deſtruction, by force of the ſtrong current of his luſtful inclinations. Neither do we read, that the Lord doth inflict this Judgment of <hi>deſertion</hi> upon <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> or any others, till a manifeſt oppoſition doth appear againſt the way and light of God made known in them: Take the Apo<g ref="char:EOLhyphen"/>ſtles words before cited, <hi>Even as they did not like to retain God in their own knowledg, ſo God gave them over to a reprobate ſence, &amp;c.</hi> And touching <hi>Pharaoh</hi> the Scripture readeth thus: <hi>And when Pharaoh ſaw there was reſpite, He Hardened his Own heart,</hi>
+               <note place="margin">Exod 8.15.</note> 
+               <hi>and hearkened not unto them, &amp;c.</hi> Unto which you may add the argument that the Prieſts of the <hi>Philiſtines</hi> uſed to their Princes, about ſending away the Ark of God to its own place;<note place="margin">Iudg. 6 6.</note> 
+               <hi>Wherefore then do you harden your hearts, as the Egyptians and Pharaoh hardened their hearts, and would not let the people go, &amp;c.</hi> By the harmony of theſe Scriptures you plainly ſee, That the evil qualifica<g ref="char:EOLhyphen"/>tion, <hi>viz.</hi> hardneſs in <hi>Pharaohs</hi> heart, did ariſe from the averſ<g ref="char:EOLhyphen"/>neſs of his own will; and as the <hi>Wrath</hi> of man ſhall turn to the praiſe of God, ſo the Lord got him a name upon <hi>Pharaoh</hi> and his Hoſt, and rewarded their ſtubbornneſs in the Red Sea; and ſo I hope my Doctrine will appear firm, <hi>viz. It is the good Will and &amp;c.</hi>
+            </p>
+            <p>If God gave Chriſt to All, and Chriſt dyed for All,<note place="margin">6 <hi>Object.</hi>
+               </note> then All of neceſſity muſt be ſaved, for GOD, or CHRIST, did nothing in vain.</p>
+            <p>I reply, That although God gave Chriſt to All,<note place="margin">Anſw.</note> and Chriſt dyed for all, yet the benefit of this act in Gods Love, and Chriſts indefinite
+<pb n="24" facs="tcp:118264:13"/>
+Tender of Salvation is appropriated only to Believers, ſuch perſons as through faith apprehend the ſame: <hi>God ſo loved the World, that Whoſoever Believeth,</hi>
+               <note place="margin">Iohn 3.12.</note> 
+               <hi>&amp;c.</hi> By theſe words you may perceive, that although the act in God was free, and Tender in Chriſt Univerſal, yet the benefit is conditional through believing: As for inſtance, <note n="*" place="margin">Simile.</note> God hath placed the Sun in the Firmament to be a light to all the World, and there is ſufficiency of light diſtilled from the Sun for the whole Univerſe; doth it therefore follow, that men cloſing their eyes, or walking under ground in dark places, receive the bene<g ref="char:EOLhyphen"/>fit of this light? And thus I hope you ſee the vanity of this Ob<g ref="char:EOLhyphen"/>jection.</p>
+            <p>
+               <note place="margin">7 <hi>Object.</hi>
+               </note>Well, ſuppoſe it be granted, That Gods Love, or Chriſts Tender, be propoſed indefinitely to All, yet when you ſay the benefit thereof is conditional on believing, doth not this Doctrine eſtabliſh Free-Will?</p>
+            <p>
+               <note place="margin">Anſw.</note>I humbly conceive there cannot be imagined to be in any creature ſuch a thing as <hi>Free-Will,</hi> being God alone is <hi>Independent,</hi> acting from a principle of his own Mind, <hi>(For Who hath been his Counſellor?)</hi> but man mediately from a power of God. <hi>Work out your own Salvation with fear and trembling; for it is God that worketh in you,</hi>
+               <note place="margin">Phil. 1.</note> 
+               <hi>&amp;c.</hi> Here the creature is concerned in action, and God in power. A <hi>Tree</hi> is concerned in fruit-bearing, and the planter in manuring of the ſame. Take a ſimilitude of the Vine<g ref="char:EOLhyphen"/>yard, ſpoken in reference to the children of <hi>Iſrael,</hi> in <hi>Iſai.</hi> 6. which after God had planted, hedged and manured, putting it into a ca<g ref="char:EOLhyphen"/>pacity of bringing forth good grapes, complaint is made of the Vineyard, that it brought forth wilde grapes: By this alluſion you may gather, That God giveth man a capacity to act, and man ac<g ref="char:EOLhyphen"/>cording to this capacity is to make improvement: Mark it well, you never read of any condemned for want, but miſ-uſe of power; as you may obſerve from the Parable of the Talents in the Goſpel.</p>
+            <p>
+               <note place="margin">8 <hi>Object.</hi>
+               </note>If GOD be good unto All, why then doth He condemn ſome?</p>
+            <p>
+               <note place="margin">Anſw.</note>The condemnation of ungodly perſons is no diminution of his goodneſs, no more then the juſt expulſion of a prophane perſon in a godly family doth prejudice the reputation of the religious go<g ref="char:EOLhyphen"/>vernor thereof: The wickedneſs of the creature cannot prevaricate the goodneſs of God; as the Apoſtle hath it in another ſence,
+<pb n="25" facs="tcp:118264:13"/>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nbelief cannot make the promiſe of none effect.</hi> 
+               <note n="*" place="margin">Simile.</note> A <hi>General</hi> is good to his Army, though he ſentenceth death to the Mutineers thereof.</p>
+            <p>In all humility I leave my Anſwer to theſe Objections to be ſe<g ref="char:EOLhyphen"/>riouſly ruminated according to the ſtrength of your underſtandings in the things of God, and crave favour to be patiently heard in what ſhall be offered in the applicatory part of this Diſcourſe.</p>
+            <p>Thus far we have gone, <hi>viz.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Text.</hi> And the times of this ignorance God winked at,<note place="margin">Sum of all.</note> but now he commandeth all men every where to repent.</p>
+               <p>
+                  <hi>Doctr.</hi> It is the good will and pleaſure of Almighty God that every Creature ſhould come to the attainment of Life and Salvation.</p>
+               <list>
+                  <item>
+                     <hi>1</hi> Reaſon grounded upon Gods Propriety in all Creatures.</item>
+                  <item>
+                     <hi>2</hi> Reaſon grounded upon the ſeveral Invitations of God to Man<g ref="char:EOLhyphen"/>kinde.</item>
+                  <item>
+                     <hi>3</hi> Reaſon grounded upon the ſorrow God is ſaid to take up upon the Creatures ruine.</item>
+               </list>
+               <p>
+                  <hi>The</hi> Objections <hi>with their</hi> Anſwers <hi>you have heard, now I come to</hi> 
+                  <g ref="char:V">Ʋ</g>ſes.</p>
+            </q>
+            <p>As Obſervation is the life of Underſtanding, ſo Application is the very <hi>Marrow</hi> of all preaching: As every line points at the Centre, ſo all Sermons centre in Application.</p>
+            <p>Now if it be an undeniable truth, <hi>That it is the good will and pleaſure of Almighty God that every Creature ſhould come to the attainment of Life and Salvation,</hi> what Uſe then may you and I gather out of this?</p>
+            <p>Firſt, This may be an Application of Comfort to every Soul here preſent, when he conſidereth the extent of the goodneſs of God:<note place="margin">1 <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </note> Is God good? and good unto All? Did Chriſt ſuffer? and ſuffer for All? Oh what comfort may the conſideration of this be to our Spirits? How ſhould we be raviſhed with admiration? as <hi>Paul</hi> was of his thoughts of theſe words, <hi>viz. That God had con<g ref="char:EOLhyphen"/>cluded all under ſin, that he might have mercy upon All: Oh the heighth and the depth of the goodneſs of God! How unſearchable is his wiſdom, and his ways paſt finding out!</hi> Now we may ſay with <hi>Peter, God is no Respecter of perſons; for he is not the God
+<pb n="26" facs="tcp:118264:14"/>
+of the Jews only, but of the Gentiles alſo.</hi> What ſay you to this, ye fleſhly <hi>Abrahamites?</hi> Ceaſe your boaſting: The partition wall is broken down; She that was deſolate hath more children then ſhe that hath an husband, which children cry, <hi>Abba, Father; the Spirit witneſſing with their ſpirit, that they are the ſons of God; if ſons, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n heirs of God, and co-heirs with Jeſus. Halle<g ref="char:EOLhyphen"/>lujah.</hi>
+            </p>
+            <p>
+               <note place="margin">2 <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </note>In the ſecond place, May not this reprove the generality of the Clergy (ſo called) whoſe teachings are, That God is good indeed, but it is but to ſome; Chriſt dyed indeed for the whole world, but it is to be underſtood for ſome of the world, which had a preroga<g ref="char:EOLhyphen"/>tive before they were born. If the Apoſtle <hi>Paul</hi> or <hi>Peter,</hi> when they went forth to preach the Goſpel, ſhould have told their hear<g ref="char:EOLhyphen"/>ers, My Maſters, We are ſent to preach the Goſpel of Salvation unto you, but there is not one amongſt ten that is permitted to re<g ref="char:EOLhyphen"/>ceive the benefit thereof; we are commanded to declare Jeſus Chriſt unto you to be the Saviour of the world, but you muſt un<g ref="char:EOLhyphen"/>derſtand he dyed only for a few perſons that were elected from all eternity: I marvel what entertainment or comfort ſuch a doctrine could have of their Auditory. <note n="*" place="margin">Simile.</note> Suppoſe you and I, with four or five hundred more, were ſlaves in <hi>Turkey,</hi> if a Merchant ſhould come and ſay, That the <hi>States</hi> of <hi>England</hi> had taken care to releaſe ſome few of us, but the names of the parties to be releaſed that was not known, what could this yield to the priſoners more than a doubtful hope? But if the <hi>States Agent</hi> ſhould tell the enſlaved fellow Natives, Here is a Releaſe come for you all, will not every priſoner joyfully conclude, If for all, then for me alſo?</p>
+            <p>The Doctrine of Predeſtination and Reprobation (ſimply as per<g ref="char:EOLhyphen"/>ſons) leaves the creature in a continual ſuſpence, ſometimes he thinketh he hath a right to Chriſt by election, at another time he is at a ſtand in himſelf, queſtioning what reaſon he hath to think ſo, when the Doctrine of Gods Free-Grace to All gives him credence of Gods Univerſal Love to the World, or all Mankind, and conſequent<g ref="char:EOLhyphen"/>ly unto him: The conſideration whereof putteth him upon a duty of ſtriving to make his Calling and Election (in that love) ſure by good works.</p>
+            <p>Again, Mark, my beloved Friends, how many Abſurdities this Doctrine of Predeſtination and Reprobation of Mankind (ſimply as perſons) caſteth upon Almighty GOD.</p>
+            <p>
+               <note place="margin">1 <hi>Abſurdity.</hi>
+               </note>Firſt, The Doctrine of Reprobation chargeth God with Inju<g ref="char:EOLhyphen"/>ſtice:
+<pb n="27" facs="tcp:118264:14"/>
+               <hi>Abraham,</hi> in capitulation with God about the deſtruction of <hi>Sodom,</hi> gathereth this concluſion, <hi>That thou ſhouldſt deſtroy the righteous with the wicked, that be far from thee:</hi> Which words, though ſpoken by interrogation, yet contain a poſitive concluſion, <hi>viz.</hi> That it is far from God to condemn the righteous with the wicked, and the Judg of all the World will judg righteouſly: Now if Judgment take place before the Fact, or condemnation precede the being of the perſon, is it not to charge God with male-admini<g ref="char:EOLhyphen"/>ſtration of Juſtice? And as the Apoſtle hath it, <hi>Where there is no Law, there is no Tranſgreſſion;</hi> and ſin is variation from a rule, which is tranſgreſſion of a Law.</p>
+            <p>Secondly, The Doctrine of Reprobation of men (as perſons) chargeth God with Partiality:<note place="margin">2 <hi>Abſurdity.</hi>
+               </note> One of the ill conſequences that ſhould follow a King in <hi>Iſrael</hi> was, that he ſhould make ſome of their ſons Captains, others he ſhould make Cooks and Confectiona<g ref="char:EOLhyphen"/>ries, without any conſideration had to the qualification in perſons unto ſuch an office, only ſuch men were appointed unto ſuch em<g ref="char:EOLhyphen"/>ployments, meerly becauſe it was his will: As great perſonages will dignifie one mans child with the name of his Page, and others muſt be his Foot-Boys. If you will believe <hi>Peter,</hi> God is no ſuch Reſpecter of perſons, but he that ſerveth him ſhall be accepted; and whoſo fancyeth Election and Reprobation in God (ſimply conſidered as perſons) rendereth God partial, and a Reſpecter of perſons.</p>
+            <p>Thirdly,<note place="margin">Remiſneſs.</note> The Doctrine of Predeſtination and Reprobation of men (ſimply as perſons) is a Doctrine of Remiſneſs, Security and Careleſneſs: Take a creature when he hath concluded himſelf to be a predeſtinated perſon, and ſo conſequently of neceſſity muſt be ſaved; if Conſcience checketh him ever ſo much for his uneven walking, he preſently flies to this Refuge, <hi>The beſt of Gods Children are ſubject to fall: God ſees no ſin in his People: Whom God loves, he loveth to the end;</hi> (all which Scriptures are true in their places, but not Arguments for Remiſneſs.)</p>
+            <p>Again, A man that concludeth himſelf an elected perſon,<note place="margin">Security.</note> though he wilfully continueth in a notorious ſin, upon check of Conſcience (which is the witneſs of God in us) he ſingeth his Soul this <hi>Re<g ref="char:EOLhyphen"/>quiem, Lot, David, and Peter had their groſs failings, yet Children of GOD;</hi> and ſo fancieth to himſelf Security.</p>
+            <p>Once more, Take a prophane perſon,<note place="margin">Careleſneſs.</note> when he hath been taught this Doctrine, That ſome (as perſons) were choſen to life, and others appointed to death, meerly out of Gods decree, and without any
+<pb n="28" facs="tcp:118264:15"/>
+reſpect had to obedience and diſobedience: what <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concluſions doth this man draw? If I ſhall be <hi>ſaved,</hi> I ſhall be <hi>ſaved;</hi> if I was appointed to be <hi>damned,</hi> I ſhall be <hi>damned;</hi> what need I care how I ſpend my time? Was not the Thief upon the Croſs a <hi>Choſen Veſſel?</hi> And thus, poor Soul, he bolſtereth himſelf in his careleſs walking, which if it were taught him, That God <hi>Electeth</hi> or <hi>Chooſeth</hi> the <hi>Righteous</hi> man to himſelf, and rejecteth and turneth the Ungodly into Hell, he would ſoon endeavor to turn over a new leaf, and no more take up theſe prepoſterous expreſſions (uſed in our generation) concerning a lewd perſon, <hi>I am ſorry God gave him no more grace;</hi> and of one that committeth <hi>felo-in-ſe</hi> becoming his own executioner, That he was born to ſuch an end, and ordained ſo to do; but rather ſpeak the Apoſtles language, where he ſaith,<note place="margin">Rom. 1.21.</note> 
+               <hi>That when men know God, and worſhip him not as God, hence it is that they become vain in their imaginations, com<g ref="char:EOLhyphen"/>mitting evil with greedineſs.</hi>
+            </p>
+            <p>
+               <note place="margin">Laſtly, It contradicteth Scripture. 2 Sam. 22.27.</note>Laſtly, The Doctrine of Election and Reprobation, (ſimply as perſons) contradicteth the whole ſcope and generality of <hi>Scrip<g ref="char:EOLhyphen"/>ture: With the upright man thou wilt ſhew thy ſelf upright; with the pure thou wilt ſhew thy ſelf pure; with the froward thou wilt deal frowardly,</hi>
+               <note place="margin">1 Sam. 2 30.</note> 
+               <hi>&amp;c.</hi> And touching <hi>Eli's</hi> ſons, who were of the lineage of <hi>Aaron,</hi> ſee what God ſaith, <hi>Them that honor me, I will honor, and them that despiſe me, ſhall be light eſteemed:</hi> And (as I give my judgment) that Doctrine which <hi>Iohn the Baptist</hi> preached,<note place="margin">Mat<g ref="char:punc">▪</g> 3.</note> ſhould be ſeaſonable for our times; <hi>Now is the ax layd to the root of the tree; and every tree that bringeth not forth good fruit, ſhall be hewed down, and caſt into the fire:</hi> And ſo to put men upon tryal of their faith in the Goſpel, by performance of Works anſwerable to the Goſpel. The Papiſts <note n="*" place="margin">Incidit in Sillam qui vult, &amp;c.</note> 
+               <hi>Silla</hi> was to ſet Works ſupereminent above Faith; I wiſh the Proteſtants <hi>Charib<g ref="char:EOLhyphen"/>dis</hi> be not to erect Faith without Works: The Apoſtle <hi>Iames</hi> makes them <hi>paramount</hi> in <hi>Abraham,</hi> demonſtrating that Faith and Works ought to be <hi>equivalent</hi> in us. Now I have done with this ſubject; I crave (my Text leading me thereto) a word or two by digreſſion.</p>
+            <p>
+               <hi>In the times of this ignorance God winked, &amp;c.</hi> From which ob<g ref="char:EOLhyphen"/>ſerve, with me, the Apoſtles method; you underſtand whom he ſpake to, a <hi>Heatheniſh</hi> people, wholy given to Idolatry; yet take notice with what mildneſs of ſpirit he reproved them, uſeth no railing at all, but in love, by way of argument, convinceth the va<g ref="char:EOLhyphen"/>nity of their worſhip, telling them (by way of encouragement)
+<pb n="29" facs="tcp:118264:15"/>
+that God <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> willing to paſs by, or wink at, their former igno<g ref="char:EOLhyphen"/>rance, provided now they would be changed in their mindes and repent: wherein you may obſerve, that the Goſpel of Chriſt is to be declared by way of meekneſs and affable perſwaſions: The Apoſtle hath an expreſſion, 2 <hi>Cor.</hi> 5.20. <hi>Now we are Embaſſa<g ref="char:EOLhyphen"/>dors of Chriſt; we pray you in Chriſts ſtead to be reconciled unto God.</hi> May not this then reprove the Legal Teachers in our generati<g ref="char:EOLhyphen"/>on, who preſent the terrors of the Law to reduce perſons to the o<g ref="char:EOLhyphen"/>bedience of the Goſpel; and by coercive power (if they had it) beat mens ſpirits into a conformity: Chriſt ſatisfied <hi>Peter</hi> that <hi>his Kingdom was not of this world;</hi> From which I apprehend we may gather, That majeſterial or worldly power hath no cognizance over the things of God.</p>
+            <p>
+               <hi>Paul</hi> telleth <hi>Timothy</hi> (who, as all conclude, was a famous Biſhop) 2 <hi>Tim.</hi> 2.24, 25. <hi>The ſervant of the Lord muſt not ſtrive, but be gentle; in meekneſs inſtructing thoſe that oppoſe themſelves, if peradventure God will give grace to repentance:</hi> How unſuitably then do thoſe perſons act, who (under pretence of <note n="*" place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>Nab<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th</hi> blaſphemed, &amp;c. only a ſleight to get his Vineyard. <hi>Cave C. O.</hi>
+               </note> 
+               <hi>Hereſie</hi> and <hi>Blasphemy)</hi> condemn men firſt, and give them time to repent af<g ref="char:EOLhyphen"/>terwards?</p>
+            <p>Harken unto me ye fiery Zealots, let us reaſon the matter; ſup<g ref="char:EOLhyphen"/>poſe there were in this Congregation one that is a <hi>Jew,</hi> pleading for a neceſſity of <hi>Sacrifices, Circumciſion, &amp;c.</hi> Another a <hi>Turk,</hi> pleading the intereſt of <hi>Mahomet;</hi> A third of <hi>Ariſtotle</hi> and <hi>Py<g ref="char:EOLhyphen"/>thagoras</hi> his Judgment, denying both Diety and Reſurrection: I pray let me ask you this queſtion; Is it not more Chriſtian-like to inſtruct theſe men then deſtroy them? Should not theſe poor Souls be objects of pity, rather then fury, ſeeing they muſt all ſtand at the Judgment ſeat of Chriſt? and to torment them before the time, is to do that to them, which (as I underſtand Scripture) Chriſt per<g ref="char:EOLhyphen"/>mited not to be done unto Devils. Now if ſuch civility is to be uſed unto Aliens and Forreigners, who are Strangers in perſon and Re<g ref="char:EOLhyphen"/>ligion, will you that be fellow Natives deſire Laws of cruelty to be exerciſed upon thoſe that are neerer by affinity, both in birth and judgment?</p>
+            <p>Again, Coercive power at the beſt makes men but Hypocrites, when perſwaſion through love maketh a change in the minde: and what is it to drive the perſon of a man into a little outward con<g ref="char:EOLhyphen"/>formity, when in his minde he is always free to affect that which his judgment gives him to be truth? <note n="*" place="margin">Simile.</note> A Lion chained is a Lion ſtill; the chain mitigateth not, but exaſperateth the fierceneſs of the crea<g ref="char:EOLhyphen"/>ture:
+<pb n="30" facs="tcp:118264:16"/>
+Outward forcings onely chain the out ſide, it is love onely that can change the minde.</p>
+            <p>Saint <hi>Paul</hi> exhorteth <hi>Titus</hi> to be <hi>gentle, and ſhew all meekneſs unto all men;</hi> and by a ſelf-experiment he encourageth him to that duty: <hi>For,</hi> ſaith he, <hi>Tit.</hi> 3. <hi>We our ſelves alſo were ſometimes diſobedient, ſerving divers lusts, &amp;c. but after the kindneſs of the love of God appeared, &amp;c.</hi> Then there was an alteration: If the men of our generation, that ſtile themſelves <hi>Miniſters of the Go<g ref="char:EOLhyphen"/>ſpel,</hi> had labored to beget love in the people towards God, by pre<g ref="char:EOLhyphen"/>ſenting the Love of God in our Saviour to the people, in a gentle and meek way, according to the Goſpel, the rent amongſt them<g ref="char:EOLhyphen"/>ſelves would not have bin ſo great, and <note n="*" place="margin">Bellum epiſ<g ref="char:EOLhyphen"/>copale, hinc iliae lachrymae.</note> diviſions of the people leſs.</p>
+            <p>One thing more obſerve from the connexion of this Diſcourſe; The precedent Verſes ſpeak, that theſe <hi>Athenians</hi> worſhipped the true God after an ignorant way: As God may be truly worſhip<g ref="char:EOLhyphen"/>ed by a form; ſo the true God is often worſhipped in a form, after a falſe manner: I pray God the whole Kingdom be not guilty of it.</p>
+            <p>The outward deckings and adornments of you that hear me, ſpeak forth a good time, or ſome high <note n="*" place="margin">It was Eaſter day in the af<g ref="char:EOLunhyphen"/>ternoons Ex<g ref="char:EOLhyphen"/>erciſe.</note> day; but how fitted and prepared your hearts be for reception of the ſubſtance of theſe for<g ref="char:EOLhyphen"/>malities, God and your Conſciences are your Judges: The Apoſtle <hi>Paul</hi> telleth the <hi>Coloſſians</hi> of us riſing with Chriſt, as well as the riſing of Chriſt;<note place="margin">Col. 3.1.</note> 
+               <hi>If ye be riſen with Chriſt, ſeek thoſe things that are above, &amp;c.</hi>
+            </p>
+            <p>To beleeve Chriſt in hiſtory, as to be born, dead, and riſen again at <hi>Jeruſalem, Rome, Spain, France,</hi> acknowledg as much, yea, the Devils beleeve, confeſs it, and tremble: but the Unity and participa<g ref="char:EOLhyphen"/>tion in the myſtery of this hiſtory, is that which muſt be of Soul-concernment unto every one of you; <hi>Prove your ſelves, whether you be IN the Faith or no; Know ye not, that except Jeſus Christ be IN you, you are reprobates?</hi>
+            </p>
+            <p>If you know any thing of the <hi>new-birth</hi> of <hi>Regeneration,</hi> or of Chriſt being formed in us, by a manifeſtation of God in <hi>Our fleſh,</hi> then you may keep <hi>Chriſtmas</hi> at <hi>Mid-Lent:</hi> Or if you know what it is to have your converſation in Heaven, and underſtand that of the Apoſtle, <hi>Col.</hi> 2.12. <hi>Buried with him in Baptiſm, wherein alſo you are riſen with Him by faith, through the operation of God;</hi> then you may keep <hi>Eaſter</hi> and <hi>Good Friday</hi> all of a day. I know many of you here have this morning obſerved the ſolemnity of the Paſſeover, by eating, or breaking bread, (God forbid that I ſhould diſcourage you in any thing that you apprehend to foe of God in
+<pb n="31" facs="tcp:118264:16"/>
+this Form;) but give me leave to declare, what Bread the Apoſtle would have the <hi>Corinthians</hi> obſerve the Paſſeover with; 1 <hi>Cor.</hi> 5.8. <hi>Therefore let us keep the feast, not with the Leaven of ma<g ref="char:EOLhyphen"/>lice and wickedneſs, but with the unleavened bread of Sincerity and Truth:</hi> And further, when he ſpeaks as to wiſe men, 1 <hi>Cor.</hi> 10.16. <hi>The Cup of bleſſing, which we bleſs, is it not the commu<g ref="char:EOLhyphen"/>nion of the blood of Chriſt? The bread which we break, is it not the communion of the body of Chriſt?</hi> By which expreſsions you may obſerve the Apoſtles drift was, to fix their hearts upon the Sub<g ref="char:EOLhyphen"/>ſtance, which is Spirit and Life in it ſelf, and the very Soul of the Sacrament.</p>
+            <p>One word more to the Military part of this Auditory, for whom this Diſcourſe was (more preciſely) intended: Gentlemen, having been your fellow-Soldier in the Nations cauſe, I take the more bold<g ref="char:EOLhyphen"/>neſs and freedom to ſpeak a word of Exhortation to you: You have heard what hath been preſſed, <hi>viz. Gods Goodneſs unto Man<g ref="char:EOLhyphen"/>kinde;</hi> The conſideration whereof (taking impreſsion upon our ſpirits) will be a ſtrong motive and provocation to us for to repent, and be changed in our mindes, from the love of the world to the love of God: If this duty be to be practiſed by all, then more eſpecially by you that be <hi>Soldiers:</hi> I have obſerved one notable <hi>ſtratagem</hi> of <hi>Satan,</hi> in tranſporting the minde of the <hi>creature</hi> above its proper ſphere: Take it for granted (in the <hi>generality)</hi> that thoſe <hi>ſocieties</hi> of men that are in moſt danger of death, are moſt careleſs in their living; <note n="*" place="margin">Quatuor aut ſeptem ſi ſit latiſſima <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aeda.</note> 
+               <hi>Seamen</hi> and <hi>Soldiers,</hi> in what ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard do they lead their lives! yet how vainly do they ſpend their time, and how improvi<g ref="char:EOLhyphen"/>dently fitted for death! My Maſters, I knew the time when the hearts of wel-affected were refreſhed to hear the goodneſs of God mani<g ref="char:EOLhyphen"/>feſted in your meetings; but how have you ſadded the ſpirits of good men, to obſerve ſo much Apoſtacy in you of this nature! hath the power of God in you (through your friends compliance) not rendred you in ſubjection to the Votes of man? Take heed how you flight the Ordinances of <hi>Almighty God:</hi> Hath God given you your lives in the field, and will you deſtroy your Souls in your quar<g ref="char:EOLhyphen"/>ters? Hath God fought for you againſt man, and will you take Sa<g ref="char:EOLhyphen"/>tans part againſt God? Sin, or diſorderly <hi>converſation,</hi> is <hi>Rebellion</hi> againſt the <hi>Gospel:</hi> Beware then, that while you are <hi>Soldiers</hi> and <hi>Conquerors</hi> of men, you prove not <hi>fighters</hi> and <hi>rebels</hi> againſt <hi>God:</hi> You are ready to ſay, <hi>The Cavaliers were Swearers, Drunkards, and Oppreſſors of the Kingdom, and ſo God cut them off:</hi> Do you think long to proſper, if ye ſhall begin to tread in their ſteps?</p>
+            <p>
+               <pb n="32" facs="tcp:118264:17"/>It's too much given to us all, that when any remarkable Judgment falleth upon any of our fellow-creatures, to foſter and cheriſh up our own ſpirits, in apprehenſion of ſelf-excelling righteouſneſs, and not onely revive, but cenſure the iniquity of the afflicted: For pre<g ref="char:EOLhyphen"/>vention of this <hi>male-application</hi> of our brethrens miſery, Chriſt teacheth the <hi>Jews</hi> what obſervation they muſt make of <hi>Herods</hi> maſſacring the <hi>Galileans,</hi> and thoſe that periſhed by the down-fall of a Tower, ſuppoſe you that theſe be <hi>greater ſinners, Except ye repent, you all ſhall likewiſe periſh:</hi> If others for their wickedneſs have been made ſpectacles of Gods Juſtice to you, take heed, leſt through deviation of righteous principles, you render not your ſelves objects of Gods fury unto others: Be confident of this, God will not be mocked by you, or any generation of men whatſoever; and it is not ſtrength (though united with policy) but righteouſ<g ref="char:EOLhyphen"/>neſs (coupled with ſincerity) that knits your intereſt in the people: I am drawn forth in the bowels of my affection to ſpeak this home to you, not <hi>to ſhame you,</hi> but as my beloved friends, ſo <hi>to warn you:</hi> And let me put this one truth in your boſoms; The <hi>augmentation</hi> of Gods mercy, in the conqueſt of your enemies, will prove an <hi>ag<g ref="char:EOLhyphen"/>gravation</hi> of Gods Juſtice to be inflicted upon you, if you improve not the end of theſe Victories to the glory of God, and welfare of the people, unto whom you (ſo ſolemnly) ſtand engaged. The Pro<g ref="char:EOLhyphen"/>phet <hi>Amos,</hi> upon <hi>Iſraels</hi> prevarication, uſeth this expreſſion, <hi>A<g ref="char:EOLhyphen"/>mos</hi> 3.2. <hi>You onely have I known of all the Families of the earth; I will puniſh you for your iniquities.</hi>
+            </p>
+            <p>As Gods love gives cognizance in Mercy; ſo Apoſtacy augments Pro<g ref="char:EOLhyphen"/>priety in Judgment. I ſhut up all in the words of <hi>Samuel</hi> to the people, 1 <hi>Sam.</hi> 12.24. <hi>Fear the Lord, ſerve him in truth, and conſider how great things he hath done for you; But if you ſhall do wickedly, you ſhall periſh, both ye, and your King.</hi> So ſay I to you Gentlemen of the Souldiery, Let the Lord be your dread, ſerve him in the ſincerity of your ſpirits, keep the great deliverances he hath given you in thankful remembrance; and take heed you be not weary of well doing; For if in ſtead of <hi>ſerving God,</hi> you <hi>ſerve your luſts,</hi> and in ſtead of making your <hi>boaſt of God,</hi> you make your <hi>boaſt of your Sword, and your Bow, &amp;c.</hi> and do ſo wickedly, <hi>Ye</hi> ſhall periſh, and your <hi>Commanders</hi> alſo.</p>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <p>
+               <hi>Reader,</hi> Upon a Conference in <hi>London</hi> touching the Contents of this Trea<g ref="char:EOLhyphen"/>tiſe, I was rendred one of Mr <hi>Goodwins</hi> Diſciples, of whom I have no fur<g ref="char:EOLhyphen"/>ther cognizance, ſaving that I was <hi>Febr.</hi> 11. preſent at a Diſpute betwixt Mr <hi>Goodwin</hi> and Mr <hi>Simſon,</hi> where (notwithſtanding the prejudice offer<g ref="char:EOLhyphen"/>ed by the Moderators, and Mr <hi>Powel)</hi> the truth of Mr <hi>Goodwins</hi> Poſition, and his abilities in the <hi>management</hi> thereof, was ſufficiently demonſtrated.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
